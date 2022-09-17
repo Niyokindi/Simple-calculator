@@ -6,3 +6,10 @@ def add(a, b):
 def subtract(a, b):
     difference = a - b
     return difference
+
+
+x = add(6, 5)
+print(x)
+
+y = subtract(6, 5)
+print(y)
